@@ -110,10 +110,10 @@
   "license_name": "MIT",
   "license_url": "https://huggingface.co/microsoft/phi-2/resolve/main/LICENSE",
   "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
-  "provider_url": "https://huggingface.co/kroonen/phi-2-GGUF/resolve/main/phi-2_Q4_K_M.gguf",
+  "provider_url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q4_K_M.gguf",
   "urls": [
-    "https://huggingface.co/kroonen/phi-2-GGUF/resolve/main/phi-2_Q4_K_M.gguf"
+    "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q4_K_M.gguf"
   ],
-  "sha256": "0e4d822cf12f49e58474c03035e89fac3ae8c419c0a05d00a37455068cd21a35"
+  "sha256": "324356668fa5ba9f4135de348447bb2bbe2467eaa1b8fcfb53719de62fbd2499"
 }
 ]
